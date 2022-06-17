@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>dumpLog4j</groupId>
+    <artifactId>dumpLog4j</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <groupId>dumpLog4j</groupId>
+  <artifactId>dumpLog4jV2</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>dumpLog4jV2</name>
+  <url>http://maven.apache.org</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+      <dependency>
+	<groupId>org.apache.logging.log4j</groupId>
+	<artifactId>log4j-api</artifactId>
+	<version>2.13.1</version>
+</dependency>
+<dependency>
+	<groupId>org.apache.logging.log4j</groupId>
+	<artifactId>log4j-core</artifactId>
+	<version>2.13.1</version>
+</dependency>
+  </dependencies>
+</project>
