@@ -3,3 +3,8 @@
 ".classpath" 
 ".project" 
 ".settings/" 
+"dumpLog4jV2/target/" 
+"dumpLog4jV2/bin/" 
+"dumpLog4jV2/.classpath" 
+"dumpLog4jV2/.project" 
+"dumpLog4jV2/.settings/" 
