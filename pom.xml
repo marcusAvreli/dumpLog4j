@@ -25,5 +25,6 @@
 <modules>  
 	
     <module>dumpLog4jV2</module>
+    <module>dumpLog4jVSuit</module>
   </modules>
 </project>
